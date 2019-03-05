@@ -1,7 +1,7 @@
 PouchDB Load
 =====
 
-[![Build Status](https://travis-ci.org/nolanlawson/pouchdb-load.svg)](https://travis-ci.org/nolanlawson/pouchdb-load)
+[![Build Status](https://travis-ci.org/CharlesGrimont/pouchdb-load.svg)](https://travis-ci.org/CharlesGrimont/pouchdb-load)
 
 Client-side tools for loading a dump from a CouchDB/PouchDB database.
 
