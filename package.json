@@ -37,7 +37,7 @@
     "pouchdb-checkpointer": "6.4.3",
     "pouchdb-generate-replication-id": "6.4.3",
     "pouchdb-promise": "6.4.3",
-    "pouchdb-adapter-leveldb":"6.4.3"
+    "pouchdb-adapter-leveldb": "6.4.3"
   },
   "devDependencies": {
     "browserify": "^13.0.1",
